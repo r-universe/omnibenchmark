@@ -1,0 +1,10 @@
+{
+  "id": 129504289,
+  "created_at": "2026-05-04T19:33:22.000Z",
+  "repository_selection": "selected",
+  "permissions": {
+    "metadata": "read",
+    "statuses": "write"
+  },
+  "repositories": ["omnibenchmark.r-universe.dev"]
+}
