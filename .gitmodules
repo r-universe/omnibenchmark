@@ -1,5 +1,9 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
+	url = https://github.com/omnibenchmark/omnibenchmark.r-universe.dev
 	branch = HEAD
+[submodule "obkit"]
+	path = obkit
+	url = https://github.com/omnibenchmark/obkit
+	branch = main
+	subdir = r/obkit
